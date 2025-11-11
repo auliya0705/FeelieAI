@@ -1,9 +1,9 @@
-## FEELIE: Emotional Companion AI for Kids 
+### FEELIE: Emotional Companion AI for Kids 
 
 FEELIE is a simple demo application that illustrates how an AI agent can recognize a child’s emotions and respond empathetically.
 The system currently uses a rule-based approach to simulate emotional understanding and supportive responses.
 
-#🚀 How to Run
+##🚀 How to Run
 
 Clone this repository
 
