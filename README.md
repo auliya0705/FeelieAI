@@ -7,7 +7,7 @@ The system currently uses a rule-based approach to simulate emotional understand
 
 ### Clone this repository
 
-git clone https://github.com/yourusername/feelie.git
+``` git clone https://github.com/yourusername/feelie.git
 cd feelie
 
 
