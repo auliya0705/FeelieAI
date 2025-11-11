@@ -6,16 +6,12 @@ The system currently uses a rule-based approach to simulate emotional understand
 ## 🚀 How to Run
 
 ### Clone this repository
+git clone https://github.com/yourusername/feelie.git
+cd feelie 
 
-``` git clone https://github.com/yourusername/feelie.git
-cd feelie
-
-
-Install dependencies
+### Install dependencies
 Make sure you have Python 3.8+ installed, then run:
-
 pip install pyttsx3
-
 
 (Optional) You can add other dependencies such as tkinter if not preinstalled on your system.
 
@@ -23,10 +19,9 @@ Run the application
 
 python feelie_app.py
 
-
 The GUI window will open. You can type your messages into the text box and click “Send 💬” to chat with FEELIE.
 
-💬 Try These Demo Inputs
+## 💬 Try These Demo Inputs
 
 1️⃣ “I’m so mad! My friend Bimo broke my ruler.”
 ➡️ Background turns red-pink (angry), empathetic validation response.
@@ -46,7 +41,7 @@ The GUI window will open. You can type your messages into the text box and click
 6️⃣ “Thank you!”
 ➡️ Ends with praise & playful suggestion (emotion game or drawing).
 
-💡 Note
+## 💡 Note
 
 This prototype demonstrates the core concept of an AI empathy agent.
 Although it currently relies on rule-based logic, future versions could integrate machine learning models for real-time emotion detection and personalized empathy learning.
